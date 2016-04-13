@@ -25,7 +25,7 @@ public class Clientes implements Serializable {
 	
 	private String nombre, apellidos, razonSocial,domicilio, idCliente;
 	Date fechaAlta;
-	private int cif, jorge;
+	private int cif;
 	
 	
 	/**
